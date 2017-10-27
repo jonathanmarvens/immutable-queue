@@ -3,7 +3,7 @@
   "bugs": "https://github.com/jonathanmarvens/immutable-js-queue/issues",
   "dependencies": {
     "immutable": "^3.8.2",
-    "objectz": "^0.0.4"
+    "objectz": "^1.0.0"
   },
   "description": "A tiny implementation of a FIFO (“first in”, “first out”) queue built on Immutable.js.",
   "devDependencies": {
